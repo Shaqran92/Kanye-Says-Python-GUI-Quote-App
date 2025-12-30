@@ -61,6 +61,7 @@ python main.py
 
 ## ⌨️ Keyboard Shortcuts
 | Key |	Action |
+|-----|--------|
 | Space / Enter |	New quote |
 | F |	Favorite / Unfavorite |
 | C |	Copy quote |
